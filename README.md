@@ -7,7 +7,7 @@ Actualmente curso el Grado Superior de Desarrollo de Aplicaciones Web y sigo amp
 ---
 
 ### 🚀 Proyectos destacados
-- 🌐 **Alcázar Comunicaciones** | Web corporativa creada desde cero con WordPress, diseño propio en Figma, código optimizado y SEO mejorado. | [Ver proyecto →](https://github.com/deivid/alcazar-comunicaciones-web)
+- 🌐 **Alcázar Comunicaciones** | Web corporativa creada desde cero con WordPress, diseño propio en Figma, código optimizado y SEO mejorado. | [Ver proyecto →](https://github.com/daviidmrtnz/alcazar-comunicaciones-web)
 
 ---
 
@@ -26,4 +26,4 @@ Busco mi primera oportunidad para demostrar mi compromiso, mi creatividad y mis 
 ---
 
 📫 **Contacto:** dvd.dmu@gmail.com 
-🌐 **LinkedIn:** [linkedin.com/in/daviidmrtnz](www.linkedin.com/in/daviidmrtnz)
+🌐 **LinkedIn:** [linkedin.com/in/daviidmrtnz](https://www.linkedin.com/in/daviidmrtnz/)
