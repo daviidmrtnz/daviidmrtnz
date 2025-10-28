@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Holaa! 👋 Soy David  
 
-<!--
-**daviidmrtnz/daviidmrtnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador web en formación (DAW)**  
+Apasionado por la programación, el diseño y la creación de proyectos web con personalidad.  
+Actualmente curso el Grado Superior de Desarrollo de Aplicaciones Web y sigo ampliando mis conocimientos en tecnologías como **HTML, CSS, PHP, MySQL y JavaScript**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+- 🌐 **Alcázar Comunicaciones** | Web corporativa creada desde cero con WordPress, diseño propio en Figma, código optimizado y SEO mejorado. | [Ver proyecto →](https://github.com/deivid/alcazar-comunicaciones-web)
+
+---
+
+### 🛠️ Tecnologías que manejo
+**Lenguajes:** HTML, CSS, JavaScript, PHP, Java  
+**Bases de datos:** MySQL  
+**Herramientas:** VS Code, XAMPP, Figma, GIMP, Git, WordPress  
+**Sistemas operativos:** Linux Ubuntu, Windows 11  
+
+---
+
+### 🎯 Objetivo
+Seguir aprendiendo y crecer profesionalmente en el desarrollo web.  
+Busco mi primera oportunidad para demostrar mi compromiso, mi creatividad y mis ganas de trabajar en equipo.  
+
+---
+
+📫 **Contacto:** dvd.dmu@gmail.com 
+🌐 **LinkedIn:** [linkedin.com/in/daviidmrtnz](www.linkedin.com/in/daviidmrtnz)
